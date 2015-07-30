@@ -5,3 +5,7 @@ Do you ever wonder how you can create your custom table list with create/update/
 Please checkout full article here
 
 http://blog.erroldsanchez.com/table-list-solution-with-crud-using-jquery/
+
+See live demo here
+
+http://tablelist-jquery.erroldsanchez.com/ Please note that this previews well in Chrome.
