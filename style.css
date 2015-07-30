@@ -1,0 +1,12 @@
+.form-group {
+    margin-bottom:25px;
+}
+#List th:nth-child(5) {
+    width: 100px;
+}
+#List td:nth-child(5) {
+    text-align: center;
+}
+#List td:nth-child(5) button {
+    width: 40px;
+}

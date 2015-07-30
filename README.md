@@ -1,2 +1,2 @@
 # Custom-Table-List-using-jQuery
-Table list solution with CRUD using AngularJS
+Table list solution with CRUD using jQuery
